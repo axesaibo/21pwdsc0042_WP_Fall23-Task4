@@ -1,0 +1,52 @@
+.logo {
+    width: 160px;
+    height: 130px;
+}
+
+.nav-item {
+    text-align: center;
+    width: 100px;
+    padding: 6px;
+    background-color: rgb(72, 132, 164);
+
+    .nav-link {
+        color: white;
+        
+    }
+}
+
+nav {
+    height: 150px;
+    padding: 10px;
+}
+
+.d-flex {
+
+    width: 300px;
+    margin-right: 80px; 
+}
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.container {
+    
+    background-color: transparent; 
+    padding: 150px;
+    color: brown;
+}
+.container h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    padding: 30px;
+    margin-top: -90px;
+}
+p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-btn a{
+    background-color: brown;
+}
